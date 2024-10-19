@@ -5,3 +5,6 @@ hello:
 
 values:
 	@$(GO) 2_simple_values/main.go
+
+variables:
+	@$(GO) 3_variables/main.go
