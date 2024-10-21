@@ -8,3 +8,6 @@ values:
 
 variables:
 	@$(GO) 3-variables/main.go
+
+constants:
+	@$(GO) 4-constants/main.go
