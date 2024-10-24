@@ -11,3 +11,6 @@ variables:
 
 constants:
 	@$(GO) 4-constants/main.go
+
+loops:
+	@$(GO) 5-loops/main.go
