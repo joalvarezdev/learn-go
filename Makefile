@@ -14,3 +14,6 @@ constants:
 
 loops:
 	@$(GO) 5-loops/main.go
+
+ifelse:
+	@$(GO) 6-if_else/main.go
